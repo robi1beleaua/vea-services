@@ -1,3 +1,12 @@
 status = online
 download = "https://example.com/update.exe"
 version = 1.0.0
+
+fivem = " "
+fivem_status = online
+
+fortnite = " "
+fortnite_status = online
+
+pc = " "
+pc_status = online
