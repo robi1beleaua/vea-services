@@ -1,4 +1,4 @@
-status = online
+status = offline
 download = "https://example.com/update.exe"
 version = 1.0.0
 
