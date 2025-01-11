@@ -8,7 +8,7 @@ fivem_status = offline
 
 fortnite = " "
 fortnite_version = 1.0.0
-fortnite_status = online
+fortnite_status = offline
 
 pc = " "
 pc_version = 1.0.0
