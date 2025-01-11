@@ -1,4 +1,4 @@
-status = update
+status = online
 download = "https://raw.githubusercontent.com/robi1beleaua/vea-services/refs/heads/main/fivem_cleaner.bat"
 version = 1.0.0
 
