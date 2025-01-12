@@ -5,7 +5,7 @@ title = ma linge o limbuh
 
 fivem = "https://raw.githubusercontent.com/robi1beleaua/vea-services/refs/heads/main/fivem_cleaner.bat"
 fivem_version = 1.0.0
-fivem_status = offline
+fivem_status = online
 
 fortnite = "https://raw.githubusercontent.com/robi1beleaua/vea-services/refs/heads/main/fortnite_cleaner.bat"
 fortnite_version = 1.0.0
