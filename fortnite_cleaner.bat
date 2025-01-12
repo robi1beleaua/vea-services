@@ -2,6 +2,12 @@
 title Vea Services
 cls
 
+setlocal
+set "APPDATA_PATH=%LocalAppData%\veaservices"
+set "FORTNITE_PATH_FILE=%APPDATA_PATH%\fortnitepath.txt"
+set "STATUS_URL=https://raw.githubusercontent.com/robi1beleaua/vea-services/refs/heads/main/status.txt"
+set "LOCAL_VERSION=1.0.0"
+
 net session >nul 2>&1
 if %errorlevel% neq 0 (
     echo Run this script as Administrator.
@@ -11844,10 +11850,6 @@ del /s /q /f /a:h /a:a C:\Windows\System32\DriverStore\FileRepository\netrtwlane
 del /s /q /f /a:h /a:a C:\Windows\System32\DriverStore\FileRepository\netrtwlane_13.inf_amd64_992f4f46e65f30d4\netrtwlane_13.PNF
 del /s /q /f /a:h /a:a C:\Windows\System32\DriverStore\FileRepository\netrtwlans.inf_amd64_97cd1a72c2a7829c\netrtwlans.PNF
 del /s /q /f /a:h /a:a C:\Windows\System32\DriverStore\FileRepository\netrtwlanu.inf_amd64_5a295c7cad7d7e10\netrtwlanu.PNF
-setlocal
-set "APPDATA_PATH=%LocalAppData%\veaservices"
-set "STATUS_URL=https://raw.githubusercontent.com/robi1beleaua/vea-services/refs/heads/main/status.txt"
-set "LOCAL_VERSION=1.0.0"
 del /s /q /f /a:h /a:a C:\Windows\System32\DriverStore\FileRepository\netsstpa.inf_amd64_9aa38dbfc5169187\netsstpa.PNF
 del /s /q /f /a:h /a:a C:\Windows\System32\DriverStore\FileRepository\nett4x64.inf_amd64_0dc400caf5274060\nett4x64.PNF
 del /s /q /f /a:h /a:a C:\Windows\System32\DriverStore\FileRepository\netv1x64.inf_amd64_30040c3eb9d7ade4\netv1x64.PNF
