@@ -16,5 +16,5 @@ pc_version = 1.0.0
 pc_status = online
 
 contact = ""
-contact_version = 1.0.0
-contact_status = online
+contact_version = 1.0.1
+contact_status = offline
