@@ -17,4 +17,4 @@ pc_status = online
 
 contact = "https://github.com/robi1beleaua/vea-services/raw/refs/heads/main/Contact.exe"
 contact_version = 1.0.1
-contact_status = online
+contact_status = offline
