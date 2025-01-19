@@ -15,6 +15,6 @@ pc = " "
 pc_version = 1.0.0
 pc_status = online
 
-contact = "https://github.com/robi1beleaua/vea-services/raw/refs/heads/main/Contact.exe"
+contact = "https://www.dropbox.com/scl/fi/oxb653qfhsdfpqblnhl4w/contact.exe?rlkey=gjonbv5e9t9v30rzfrv4kbl65&e=1&st=hb2xpmod&dl=1"
 contact_version = 1.0.1
 contact_status = online
