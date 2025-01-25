@@ -10,6 +10,7 @@ fivem_status = online
 fortnite = "https://raw.githubusercontent.com/robi1beleaua/vea-services/refs/heads/main/fortnite_cleaner.bat"
 fortnite_version = 1.0.0
 fortnite_status = online
+fortnite_cleaner_status = offline
 
 pc = " "
 pc_version = 1.0.0
