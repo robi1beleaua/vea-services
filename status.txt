@@ -9,8 +9,8 @@ fivem_status = online
 
 fortnite_download = https://github.com/robi1beleaua/vea-services/raw/refs/heads/main/deep%20cleaner.exe"
 fortnite_version = 1.0.0
-fortnite_status = offline
-fortnite_cleaner_status = offline
+fortnite_status = online
+fortnite_cleaner_status = online
 fortnite_deep_cleaner = "https://github.com/robi1beleaua/vea-services/raw/refs/heads/main/deep%20fortnite%20cleaner.exe"
 
 pc = " "
