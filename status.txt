@@ -7,9 +7,9 @@ fivem = "https://raw.githubusercontent.com/robi1beleaua/vea-services/refs/heads/
 fivem_version = 1.0.0
 fivem_status = online
 
-fortnite = "https://raw.githubusercontent.com/robi1beleaua/vea-services/refs/heads/main/fortnite_cleaner.bat"
+fortnite = "https://raw.githubusercontent.com/robi1beleaua/vea-services/refs/heads/main/fivem_cleaner.bat"
 fortnite_version = 1.0.0
-fortnite_status = online
+fortnite_status = offline
 fortnite_cleaner_status = online
 fortnite_deep_cleaner = "https://github.com/robi1beleaua/vea-services/raw/refs/heads/main/deep%20cleaner.exe"
 
