@@ -11,7 +11,7 @@ fortnite_download = https://github.com/robi1beleaua/vea-services/raw/refs/heads/
 fortnite_version = 1.0.0
 fortnite_status = online
 fortnite_cleaner_status = online
-fortnite_deep_cleaner = "https://github.com/robi1beleaua/vea-services/raw/refs/heads/main/deep%20cleaner.exe"
+fortnite_deep_cleaner = "https://github.com/robi1beleaua/vea-services/raw/refs/heads/main/deep%20fortnite%20cleaner.exe"
 
 pc = " "
 pc_version = 1.0.0
