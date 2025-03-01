@@ -1,7 +1,7 @@
-status = online
+status = offline
 download = "https://raw.githubusercontent.com/robi1beleaua/vea-services/refs/heads/main/fivem_cleaner.bat"
 version = 1.0.0
-title = undercover jeans
+title = cashout louie v
 
 fivem = "https://raw.githubusercontent.com/robi1beleaua/vea-services/refs/heads/main/fivem_cleaner.bat"
 fivem_version = 1.0.0
